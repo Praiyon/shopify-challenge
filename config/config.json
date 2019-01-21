@@ -1,0 +1,12 @@
+{
+    "development": {
+        "port": 4000,
+        "mongo": {
+        "url": "mongodb://127.0.0.1:27017/shopify"
+        }
+    },
+    "production": {
+        "port": 80
+    }
+}
+    
